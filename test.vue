@@ -1,14 +1,14 @@
 <!-- Tufts VUE 3.3.0 concept-map (test.vue) 2017-11-17 -->
 <!-- Tufts VUE: http://vue.tufts.edu/ -->
 <!-- Do Not Remove: VUE mapping @version(1.1) jar:file:/C:/Program%20Files%20(x86)/VUE/VUE.jar!/tufts/vue/resources/lw_mapping_1_1.xml -->
-<!-- Do Not Remove: Saved date Fri Nov 17 14:47:46 CET 2017 by Kul on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
+<!-- Do Not Remove: Saved date Fri Nov 17 14:48:55 CET 2017 by Kul on platform Windows 8 6.2 in JVM 1.7.0_21-b11 -->
 <!-- Do Not Remove: Saving version @(#)VUE: built October 8 2015 at 1658 by tomadm on Linux 2.6.32-504.23.4.el6.x86_64 i386 JVM 1.7.0_21-b11(bits=32) -->
 <?xml version="1.0" encoding="US-ASCII"?>
 <LW-MAP xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="none" ID="0" label="test.vue"
     created="1510922080205" x="0.0" y="0.0" width="1.4E-45"
     height="1.4E-45" strokeWidth="0.0" autoSized="false">
-    <resource referenceCreated="1510926466660"
+    <resource referenceCreated="1510926535625" size="5308"
         spec="D:\Art\My-Making-Game\NotesofHeartsVUE\test.vue" type="1" xsi:type="URLResource">
         <title>test.vue</title>
         <property key="File" value="D:\Art\My-Making-Game\NotesofHeartsVUE\test.vue"/>
@@ -18,9 +18,9 @@
     <textColor>#000000</textColor>
     <font>SansSerif-plain-14</font>
     <URIString>http://vue.tufts.edu/rdf/resource/ca3c3e6ac3f9b91c01c7e656a530f821</URIString>
-    <child ID="6" label="test" layerID="1" created="1510922084556"
-        x="546.0" y="196.0" width="297.0" height="162.0"
-        strokeWidth="1.0" autoSized="false" xsi:type="node">
+    <child ID="6" label="test- add more text" layerID="1"
+        created="1510922084556" x="546.0" y="196.0" width="297.0"
+        height="162.0" strokeWidth="1.0" autoSized="false" xsi:type="node">
         <fillColor>#A6A6A6</fillColor>
         <strokeColor>#000000</strokeColor>
         <textColor>#000000</textColor>
@@ -39,7 +39,7 @@
         <pathway ID="0" label="&#x7121;&#x6a19;&#x984c;&#x8def;&#x5f91;"
             created="1510922080205" x="0.0" y="0.0" width="1.4E-45"
             height="1.4E-45" strokeWidth="0.0" autoSized="false"
-            currentIndex="-1" open="true">
+            currentIndex="0" open="true">
             <strokeColor>#B3CC33CC</strokeColor>
             <textColor>#000000</textColor>
             <font>SansSerif-plain-14</font>
